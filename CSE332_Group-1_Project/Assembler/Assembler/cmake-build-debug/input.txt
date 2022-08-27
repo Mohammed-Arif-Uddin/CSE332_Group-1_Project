@@ -1,0 +1,8 @@
+add $r0 $r1 $r2
+sub $r3 $r4 $r5
+addi $r6 $r7 3
+lw $r0 $r1 4
+sw $r2 $r3 5
+and $r4 $r5 $r6
+xor $r7 $r0 $r1
+j 255

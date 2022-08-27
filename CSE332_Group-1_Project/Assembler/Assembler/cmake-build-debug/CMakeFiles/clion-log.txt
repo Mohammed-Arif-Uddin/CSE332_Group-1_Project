@@ -1,0 +1,4 @@
+"C:\Program Files\JetBrains\CLion 2021.1.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "E:\7th sems\CSE332.6\Project\12-bit Risc-V Processor\Assembler"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: E:/7th sems/CSE332.6/Project/12-bit Risc-V Processor/Assembler/cmake-build-debug
